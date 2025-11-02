@@ -32,9 +32,10 @@ Ontologically, it’s a **signal-field**:
 * Outputs: a time-dependent survival probability (from 1 → 0).
   So the “thing” *that exists* is not a dataset or interface, but the *mapping*:
 
-  $$
-  x = {,\text{patient features},} \quad \rightarrow \quad S(t \mid x)
-  $$
+$$
+x = \{\,\text{patient features}\,\} \quad \rightarrow \quad S(t \mid x)
+$$
+
   
   This is your θ′ → θ compression of real bodies into parametric space.
 
